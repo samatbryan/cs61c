@@ -1,0 +1,8 @@
+Exercise 1
+  110 ns
+  9.09 MHz	
+  
+Exercise 2
+  60 ns	
+  
+  
